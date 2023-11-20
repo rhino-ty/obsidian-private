@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f9c28fd46015159a",
-            "type": "leaf",
-            "state": {
-              "type": "make-file-view",
-              "state": {
-                "path": "https://www.make.md/static/latest.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JS/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JS/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,15 +132,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "JS/무제 파일.md"
+              }
+            }
+          },
+          {
+            "id": "f4db8774cbe765ea",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,12 +160,15 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f9c28fd46015159a",
+  "active": "f4db8774cbe765ea",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-11-20 15.59.15.excalidraw.md",
     "JS/무제 파일.md",
+    "Excalidraw",
     "Spaces/Home",
     "Spaces",
     "README.md",
