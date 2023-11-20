@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9c28fd46015159a",
+            "type": "leaf",
+            "state": {
+              "type": "make-file-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,8 +75,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "e05fb8c85cabec16",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -85,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JS/무제 파일.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -143,13 +159,16 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e7220ab30312135",
+  "active": "f9c28fd46015159a",
   "lastOpenFiles": [
-    "README.md",
     "JS/무제 파일.md",
+    "Spaces/Home",
+    "Spaces",
+    "README.md",
     "JS/무제 파일.canvas",
     "2023-11-20.md",
     "JS",
