@@ -1,0 +1,8 @@
+.markdown-preview-view ul > li.task-list-item.is-checked {
+    text-decoration: line-through;
+    color: var(--text-faint);
+}
+
+.cm-s-obsidian span.cm-tag {
+    color: #7A7A7A;
+}
