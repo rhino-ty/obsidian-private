@@ -36,9 +36,11 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "Spaces/Home/Spaces/Home/술",
-    "Spaces/Home/Spaces/Home/술",
-    "Spaces/Home/Spaces/Home/술"
+    "spaces://$tags/spaces://#excalidraw",
+    "Spaces/Home/Spaces/Home/술2",
+    "Spaces/Home/Spaces/Home/술2",
+    "Spaces/Home/Spaces/Home/JS",
+    "Spaces/Home/Spaces/Home/JS"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -65,7 +67,8 @@
     "spaces://$tags"
   ],
   "rootSpaces": [
-    "Spaces/Home/술"
+    "Spaces/Home/술",
+    "Spaces/Home/술2"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
