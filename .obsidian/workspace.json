@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Spaces/Home/JS/무제 파일.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -163,7 +163,8 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false
     }
   },
   "active": "1e7220ab30312135",
