@@ -36,7 +36,6 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "spaces://$tags/spaces://#excalidraw",
     "Spaces/Home/Spaces/Home/술2",
     "Spaces/Home/Spaces/Home/술2",
     "//Spaces",
@@ -47,7 +46,8 @@
     "Spaces/Home/Spaces/Home/JS",
     "Spaces/Home/Spaces/Home/JS",
     "Spaces/Home/Spaces/Home/JS",
-    "Spaces/Home/Spaces/Home/술"
+    "Spaces/Home/Spaces/Home/술",
+    "spaces://$tags/spaces://#excalidraw"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
