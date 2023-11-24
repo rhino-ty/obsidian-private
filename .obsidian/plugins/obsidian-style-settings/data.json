@@ -36,5 +36,10 @@
   "anp-custom-rainbow-colors@@rainbow-color-9-default": "rainbow-color-9-green",
   "anp-custom-rainbow-colors@@rainbow-color-10-default": "rainbow-color-10-teal",
   "anp-custom-rainbow-colors@@rainbow-color-11-default": "rainbow-color-11-sky",
-  "anuppuccin-theme-settings@@anp-toggle-preview": true
+  "anuppuccin-theme-settings@@anp-toggle-preview": true,
+  "anuppuccin-theme-settings@@anp-autohide-titlebar": true,
+  "anuppuccin-theme-settings@@anp-custom-vault-toggle": true,
+  "anuppuccin-theme-settings@@anp-file-icons": true,
+  "anuppuccin-theme-settings@@anp-floating-header": true,
+  "anuppuccin-theme-settings@@anp-collapse-folders": false
 }
