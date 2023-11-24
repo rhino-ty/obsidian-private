@@ -11,9 +11,11 @@
             "id": "ff41dd2d284fe689",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces/Home/공부"
+                "file": "Spaces/Home/술/위스키.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Home/술/위스키.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Home/술/위스키.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Home/술/위스키.md"
+              }
             }
           },
           {
@@ -153,32 +159,35 @@
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "markdown-importer:마크다운 형식 가져오기 열기": false
+      "markdown-importer:마크다운 형식 가져오기 열기": false,
+      "workspaces:작업 공간 레이아웃 관리": false,
+      "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "e05fb8c85cabec16",
+  "active": "ff41dd2d284fe689",
   "lastOpenFiles": [
+    "Spaces/Home/술/Pasted image 20231124122155.png",
+    "Spaces/Home/술/위스키.md",
+    "Spaces/Home/술/Pasted image 20231124122250.png",
+    "Spaces/Home/술/술.md",
+    "Spaces/Home/옵시디언 설정.md",
     "Spaces/Home/공부/공부.md",
     "Spaces/Home/공부/무제 파일.md",
     "Spaces/Home/공부/무제 파일.canvas",
     "Spaces/스페이스/스페이스.md",
     "Spaces/스페이스",
     "Spaces/Untitled.md",
-    "Spaces/Home/옵시디언 설정.md",
     "2023-11-24.md",
     "Spaces/Home/스페이스/스페이스.md",
     "Spaces/Home/스페이스",
     "Spaces/Home/술2/술2.md",
     "Spaces/Home/술2",
-    "Spaces/Home/술/술.md",
     "Spaces/Home/술/우리나라 전통주.md",
     "Spaces/Home/Untitled.md",
-    "Spaces/Home/술/위스키.md",
     "Excalidraw/Drawing 2023-11-20 15.59.15.excalidraw.md",
     "Spaces/Home/술/와인.md",
     "Spaces/Home/술",
