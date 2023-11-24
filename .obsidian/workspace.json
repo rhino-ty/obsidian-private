@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 271.5
   },
   "right": {
     "id": "0a1458ea4a005645",
@@ -166,7 +166,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1e7220ab30312135",
+  "active": "e05fb8c85cabec16",
   "lastOpenFiles": [
     "Spaces/Home/JS/무제 파일.canvas",
     "Spaces/Home/JS/무제 파일.md",
