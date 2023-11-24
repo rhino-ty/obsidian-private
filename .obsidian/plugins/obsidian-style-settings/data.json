@@ -1,7 +1,7 @@
 {
   "anuppuccin-theme-settings-extended@@anp-theme-ext-light": true,
   "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
-  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-notion-light",
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-nord-light",
   "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-atom-dark",
   "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": false,
   "anuppuccin-theme-settings@@anp-callout-select": "anp-callout-block",
@@ -22,6 +22,14 @@
   "anuppuccin-theme-settings@@anp-colorful-frame": true,
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-light": false,
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": false,
-  "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
-  "anuppuccin-theme-settings@@anp-bg-fix": true
+  "anuppuccin-theme-settings@@anp-layout-select": "anp-border-layout",
+  "anuppuccin-theme-settings@@anp-bg-fix": true,
+  "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-depth-tab-toggle",
+  "anp-custom-rainbow-colors@@rainbow-color-1-default": "rainbow-color-1-accent",
+  "anp-custom-rainbow-colors@@rainbow-color-2-default": "rainbow-color-2-rosewater",
+  "anp-custom-rainbow-colors@@rainbow-color-3-default": "rainbow-color-3-flamingo",
+  "anp-custom-rainbow-colors@@rainbow-color-4-default": "rainbow-color-4-mauve",
+  "anp-custom-rainbow-colors@@rainbow-color-5-default": "rainbow-color-5-red",
+  "anp-custom-rainbow-colors@@rainbow-color-6-default": "rainbow-color-6-maroon",
+  "anp-custom-rainbow-colors@@rainbow-color-7-default": "rainbow-color-7-peach"
 }
