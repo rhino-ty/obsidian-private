@@ -36,9 +36,8 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "Spaces/Home/Spaces/Home/JS",
-    "Spaces/Home/Spaces/Home/JS",
-    "Spaces/Home/Spaces/Home/JS"
+    "Spaces/Home/Spaces/Home/술",
+    "Spaces/Home/Spaces/Home/술"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -64,7 +63,9 @@
     "/",
     "spaces://$tags"
   ],
-  "rootSpaces": [],
+  "rootSpaces": [
+    "Spaces/Home/술"
+  ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
   "fmKeyBanner": "banner",

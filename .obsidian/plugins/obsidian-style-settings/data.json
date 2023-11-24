@@ -27,9 +27,13 @@
   "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-depth-tab-toggle",
   "anp-custom-rainbow-colors@@rainbow-color-1-default": "rainbow-color-1-accent",
   "anp-custom-rainbow-colors@@rainbow-color-2-default": "rainbow-color-2-rosewater",
-  "anp-custom-rainbow-colors@@rainbow-color-3-default": "rainbow-color-3-flamingo",
+  "anp-custom-rainbow-colors@@rainbow-color-3-default": "rainbow-color-3-blue",
   "anp-custom-rainbow-colors@@rainbow-color-4-default": "rainbow-color-4-mauve",
   "anp-custom-rainbow-colors@@rainbow-color-5-default": "rainbow-color-5-red",
   "anp-custom-rainbow-colors@@rainbow-color-6-default": "rainbow-color-6-maroon",
-  "anp-custom-rainbow-colors@@rainbow-color-7-default": "rainbow-color-7-peach"
+  "anp-custom-rainbow-colors@@rainbow-color-7-default": "rainbow-color-7-lavender",
+  "anp-custom-rainbow-colors@@rainbow-color-8-default": "rainbow-color-8-sapphire",
+  "anp-custom-rainbow-colors@@rainbow-color-9-default": "rainbow-color-9-green",
+  "anp-custom-rainbow-colors@@rainbow-color-10-default": "rainbow-color-10-teal",
+  "anp-custom-rainbow-colors@@rainbow-color-11-default": "rainbow-color-11-sky"
 }
