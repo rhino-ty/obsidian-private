@@ -35,5 +35,6 @@
   "anp-custom-rainbow-colors@@rainbow-color-8-default": "rainbow-color-8-sapphire",
   "anp-custom-rainbow-colors@@rainbow-color-9-default": "rainbow-color-9-green",
   "anp-custom-rainbow-colors@@rainbow-color-10-default": "rainbow-color-10-teal",
-  "anp-custom-rainbow-colors@@rainbow-color-11-default": "rainbow-color-11-sky"
+  "anp-custom-rainbow-colors@@rainbow-color-11-default": "rainbow-color-11-sky",
+  "anuppuccin-theme-settings@@anp-toggle-preview": true
 }

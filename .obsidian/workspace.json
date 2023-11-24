@@ -11,11 +11,9 @@
             "id": "1e7220ab30312135",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Spaces/Home/술/위스키.md",
-                "mode": "source",
-                "source": false
+                "path": "Spaces/Home/술"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/술/위스키.md",
+                "file": "Spaces/Home/술/술.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/술/위스키.md",
+                "file": "Spaces/Home/술/술.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/술/위스키.md"
+                "file": "Spaces/Home/술/술.md"
               }
             }
           },
@@ -167,11 +165,12 @@
       "markdown-importer:마크다운 형식 가져오기 열기": false
     }
   },
-  "active": "1e7220ab30312135",
+  "active": "362198f4948b1ee7",
   "lastOpenFiles": [
-    "Spaces/Home/술/와인.md",
-    "Spaces/Home/술/위스키.md",
     "Spaces/Home/술/술.md",
+    "Spaces/Home/술/우리나라 전통주.md",
+    "Spaces/Home/술/위스키.md",
+    "Spaces/Home/술/와인.md",
     "Spaces/Home/술",
     "Spaces/Home/JS/Untitled.md",
     "Spaces/Home/Untitled.md",
