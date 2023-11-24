@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Spaces/Home/JS/무제 파일.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 254
   },
   "right": {
     "id": "0a1458ea4a005645",
