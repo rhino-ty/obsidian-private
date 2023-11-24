@@ -14,5 +14,13 @@
       ],
       "key": "Backspace"
     }
+  ],
+  "editor:rename-heading": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
   ]
 }

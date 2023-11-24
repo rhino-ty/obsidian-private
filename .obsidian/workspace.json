@@ -11,8 +11,10 @@
             "id": "ff41dd2d284fe689",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "mk-space",
+              "state": {
+                "path": "Spaces/Home/JS"
+              }
             }
           }
         ]
@@ -159,7 +161,7 @@
       "markdown-importer:마크다운 형식 가져오기 열기": false
     }
   },
-  "active": "e05fb8c85cabec16",
+  "active": "ff41dd2d284fe689",
   "lastOpenFiles": [
     "Spaces/스페이스/스페이스.md",
     "Spaces/스페이스",
