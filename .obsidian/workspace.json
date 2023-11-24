@@ -13,7 +13,7 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Spaces/Home/JS"
+                "path": "Spaces/Home/공부"
               }
             }
           }
@@ -161,8 +161,11 @@
       "markdown-importer:마크다운 형식 가져오기 열기": false
     }
   },
-  "active": "ff41dd2d284fe689",
+  "active": "e05fb8c85cabec16",
   "lastOpenFiles": [
+    "Spaces/Home/공부/공부.md",
+    "Spaces/Home/공부/무제 파일.md",
+    "Spaces/Home/공부/무제 파일.canvas",
     "Spaces/스페이스/스페이스.md",
     "Spaces/스페이스",
     "Spaces/Untitled.md",
@@ -177,9 +180,7 @@
     "Spaces/Home/Untitled.md",
     "Spaces/Home/술/위스키.md",
     "Excalidraw/Drawing 2023-11-20 15.59.15.excalidraw.md",
-    "Spaces/Home/JS/무제 파일.md",
     "Spaces/Home/술/와인.md",
-    "Spaces/Home/JS/무제 파일.canvas",
     "Spaces/Home/술",
     "Spaces/Home/JS/Untitled.md",
     "README.md",
@@ -187,7 +188,7 @@
     "Spaces/Home",
     "Spaces",
     "2023-11-20.md",
-    "Spaces/Home/JS",
+    "Spaces/Home/공부",
     "2023-09-22.md"
   ]
 }
