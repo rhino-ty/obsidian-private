@@ -3,13 +3,13 @@
   "theme": "system",
   "baseFontSize": 18,
   "translucency": true,
-  "cssTheme": "",
+  "cssTheme": "AnuPpuccin",
   "interfaceFontFamily": "Apple SD Gothic Neo",
   "textFontFamily": "Apple SD Gothic Neo",
   "monospaceFontFamily": "JetBrains Mono",
   "enabledCssSnippets": [
     "obsidian",
-    "checkbox-stroke",
-    "ia-write-highlight-style"
+    "ia-write-highlight-style",
+    "checkbox-stroke"
   ]
 }
