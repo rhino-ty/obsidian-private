@@ -18,7 +18,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "Spaces/Home",
+  "activeView": "/",
   "hideFrontmatter": true,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
@@ -39,8 +39,9 @@
     "spaces://$tags/spaces://#excalidraw",
     "Spaces/Home/Spaces/Home/술2",
     "Spaces/Home/Spaces/Home/술2",
-    "Spaces/Home/Spaces/Home/JS",
-    "Spaces/Home/Spaces/Home/JS"
+    "//Spaces",
+    "//Spaces/Spaces/스페이스",
+    "//Spaces/Spaces/스페이스"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -68,7 +69,9 @@
   ],
   "rootSpaces": [
     "Spaces/Home/술",
-    "Spaces/Home/술2"
+    "Spaces/Home/술2",
+    "Spaces/Home/스페이스",
+    "Spaces/스페이스"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",

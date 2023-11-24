@@ -1,3 +1,5 @@
 {
-  "newFileLocation": "root"
+  "newFileLocation": "root",
+  "promptDelete": false,
+  "strictLineBreaks": false
 }

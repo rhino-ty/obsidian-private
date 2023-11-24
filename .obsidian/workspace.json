@@ -11,10 +11,8 @@
             "id": "ff41dd2d284fe689",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Home/JS"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -163,14 +161,19 @@
   },
   "active": "e05fb8c85cabec16",
   "lastOpenFiles": [
+    "Spaces/스페이스/스페이스.md",
+    "Spaces/스페이스",
+    "Spaces/Untitled.md",
+    "Spaces/Home/옵시디언 설정.md",
+    "2023-11-24.md",
+    "Spaces/Home/스페이스/스페이스.md",
+    "Spaces/Home/스페이스",
     "Spaces/Home/술2/술2.md",
     "Spaces/Home/술2",
-    "2023-11-24.md",
     "Spaces/Home/술/술.md",
     "Spaces/Home/술/우리나라 전통주.md",
     "Spaces/Home/Untitled.md",
     "Spaces/Home/술/위스키.md",
-    "Spaces/Home/옵시디언 설정.md",
     "Excalidraw/Drawing 2023-11-20 15.59.15.excalidraw.md",
     "Spaces/Home/JS/무제 파일.md",
     "Spaces/Home/술/와인.md",
