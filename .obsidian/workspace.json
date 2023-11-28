@@ -11,9 +11,11 @@
             "id": "ddc7053cdee1c33b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Spaces/Home/술/위스키계열.png"
+                "file": "Spaces/Home/술/위스키.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/술/위스키계열.png",
+                "file": "Spaces/Home/술/위스키.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/술/위스키계열.png",
+                "file": "Spaces/Home/술/위스키.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/술/위스키계열.png"
+                "file": "Spaces/Home/술/위스키.md"
               }
             }
           },
@@ -168,9 +170,10 @@
   },
   "active": "ddc7053cdee1c33b",
   "lastOpenFiles": [
-    "Spaces/Home/술/와인.md",
+    "무제 파일.md",
     "Spaces/Home/술/위스키.md",
     "Spaces/Home/술/위스키계열.png",
+    "Spaces/Home/술/와인.md",
     "Pasted image 20231124122250.png.md",
     "Untitled.md",
     "Spaces/Home/술/우리나라 전통주.md",
