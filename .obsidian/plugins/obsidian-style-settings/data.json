@@ -26,5 +26,7 @@
   "anuppuccin-theme-settings@@anp-table-th-highlight": false,
   "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
   "anuppuccin-theme-settings-extended@@anp-theme-ext-light": true,
-  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-atom-dark"
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-atom-dark",
+  "anuppuccin-theme-settings@@ctp-custom-subtext1@@dark": "#112234",
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": false
 }

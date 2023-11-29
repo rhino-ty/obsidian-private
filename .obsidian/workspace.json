@@ -13,7 +13,7 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Spaces/Home/술"
+                "path": "Spaces/Home/루멘테라"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/술/술.md",
+                "file": "Spaces/Home/루멘테라/루멘테라.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/술/술.md",
+                "file": "Spaces/Home/루멘테라/루멘테라.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/술/술.md"
+                "file": "Spaces/Home/루멘테라/루멘테라.md"
               }
             }
           },
@@ -166,18 +166,18 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "e05fb8c85cabec16",
+  "active": "80d1b7e3cec6cc1f",
   "lastOpenFiles": [
+    "Spaces/Home/루멘테라/루멘테라.md",
+    "Spaces/Home/옵시디언 설정.md",
     "Spaces/Home/술/술.md",
     "Spaces/Home/술/위스키.md",
     "Spaces/Home/루멘테라/태욱님 텍스트 추출.md",
-    "Spaces/Home/루멘테라/루멘테라.md",
     "Obsidian Vault.md",
     "Spaces/Home/루멘테라",
     "무제 파일.md",
     "Untitled.md",
     "Spaces/Home/술/위스키계열.png",
-    "Spaces/Home/옵시디언 설정.md",
     "Spaces/Home/공부/무제 파일.canvas",
     "Spaces/Home/공부/무제 파일.md",
     "Spaces/Home/Untitled.md",
