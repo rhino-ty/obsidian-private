@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/옵시디언 설정.md",
+                "file": "Spaces/Home/루멘테라/경방신약.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/옵시디언 설정.md",
+                "file": "Spaces/Home/루멘테라/경방신약.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/옵시디언 설정.md",
+                "file": "Spaces/Home/루멘테라/경방신약.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,8 +136,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,15 +156,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f4db8774cbe765ea",
+  "active": "6e4edcd9781bbe8d",
   "lastOpenFiles": [
+    "Spaces/Home/옵시디언 설정.md",
     "Spaces/Home/술/와인.md",
     "Spaces/Home/술/우리나라 전통주.md",
     "Spaces/Home/술/위스키.md",
     "Spaces/Home/술/술.md",
     "Spaces/Home/루멘테라/루멘테라.md",
-    "Spaces/Home/옵시디언 설정.md",
-    "Spaces/Home/루멘테라/태욱님 텍스트 추출.md",
+    "Spaces/Home/루멘테라/경방신약.md",
     "Obsidian Vault.md",
     "Spaces/Home/루멘테라",
     "무제 파일.md",
