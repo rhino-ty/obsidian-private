@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c952ea9ee4cbc37d",
+        "id": "b38e4912297eca27",
         "type": "tabs",
         "children": [
           {
-            "id": "ddc7053cdee1c33b",
+            "id": "6e4edcd9781bbe8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Spaces/Home/술/위스키.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2296054bbdc474ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/루멘테라/무제 파일 1.md",
-                "mode": "source",
-                "source": false
+                "path": "Spaces/Home/술"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/루멘테라/무제 파일 1.md",
+                "file": "Spaces/Home/술/술.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/루멘테라/무제 파일 1.md",
+                "file": "Spaces/Home/술/술.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/루멘테라/무제 파일 1.md"
+                "file": "Spaces/Home/술/술.md"
               }
             }
           },
@@ -181,15 +166,16 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "2296054bbdc474ac",
+  "active": "e05fb8c85cabec16",
   "lastOpenFiles": [
+    "Spaces/Home/술/술.md",
+    "Spaces/Home/술/위스키.md",
+    "Spaces/Home/루멘테라/태욱님 텍스트 추출.md",
     "Spaces/Home/루멘테라/루멘테라.md",
-    "Spaces/Home/루멘테라/무제 파일 1.md",
     "Obsidian Vault.md",
     "Spaces/Home/루멘테라",
     "무제 파일.md",
     "Untitled.md",
-    "Spaces/Home/술/위스키.md",
     "Spaces/Home/술/위스키계열.png",
     "Spaces/Home/옵시디언 설정.md",
     "Spaces/Home/공부/무제 파일.canvas",
@@ -199,7 +185,6 @@
     "Pasted image 20231124122250.png.md",
     "Spaces/Home/술/우리나라 전통주.md",
     "Spaces/Home/술/Pasted image 20231124122250.png",
-    "Spaces/Home/술/술.md",
     "Spaces/Home/공부/공부.md",
     "Spaces/스페이스/스페이스.md",
     "Spaces/스페이스",

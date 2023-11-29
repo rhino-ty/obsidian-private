@@ -12,6 +12,8 @@
     "AnuPpuccin extended colors",
     "ia-write-highlight-style",
     "Custom Rainbow Colors",
-    "checkbox-stroke"
-  ]
+    "checkbox-stroke",
+    "Rainbow Folder Backgrounds"
+  ],
+  "showViewHeader": false
 }
