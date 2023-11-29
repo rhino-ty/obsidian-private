@@ -11,9 +11,11 @@
             "id": "6e4edcd9781bbe8d",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces/Home/술"
+                "file": "Spaces/Home/옵시디언 설정.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/술/술.md",
+                "file": "Spaces/Home/옵시디언 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,20 +111,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/술/술.md",
+                "file": "Spaces/Home/옵시디언 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "02b98fcc7aa6f37b",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -132,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/술/술.md"
+                "file": "Spaces/Home/옵시디언 설정.md"
               }
             }
           },
@@ -143,9 +134,20 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "5d2b940a6d791d8a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -166,12 +168,14 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "c53c5be864d1c97a",
+  "active": "6e4edcd9781bbe8d",
   "lastOpenFiles": [
-    "Spaces/Home/옵시디언 설정.md",
-    "Spaces/Home/루멘테라/루멘테라.md",
-    "Spaces/Home/술/술.md",
+    "Spaces/Home/술/와인.md",
+    "Spaces/Home/술/우리나라 전통주.md",
     "Spaces/Home/술/위스키.md",
+    "Spaces/Home/술/술.md",
+    "Spaces/Home/루멘테라/루멘테라.md",
+    "Spaces/Home/옵시디언 설정.md",
     "Spaces/Home/루멘테라/태욱님 텍스트 추출.md",
     "Obsidian Vault.md",
     "Spaces/Home/루멘테라",
@@ -181,9 +185,7 @@
     "Spaces/Home/공부/무제 파일.canvas",
     "Spaces/Home/공부/무제 파일.md",
     "Spaces/Home/Untitled.md",
-    "Spaces/Home/술/와인.md",
     "Pasted image 20231124122250.png.md",
-    "Spaces/Home/술/우리나라 전통주.md",
     "Spaces/Home/술/Pasted image 20231124122250.png",
     "Spaces/Home/공부/공부.md",
     "Spaces/스페이스/스페이스.md",
