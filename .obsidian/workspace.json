@@ -13,7 +13,7 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Spaces/Home/루멘테라"
+                "path": "Spaces/Home/술"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/루멘테라/루멘테라.md",
+                "file": "Spaces/Home/술/술.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/루멘테라/루멘테라.md",
+                "file": "Spaces/Home/술/술.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/루멘테라/루멘테라.md"
+                "file": "Spaces/Home/술/술.md"
               }
             }
           },
@@ -166,10 +166,10 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "80d1b7e3cec6cc1f",
+  "active": "c53c5be864d1c97a",
   "lastOpenFiles": [
-    "Spaces/Home/루멘테라/루멘테라.md",
     "Spaces/Home/옵시디언 설정.md",
+    "Spaces/Home/루멘테라/루멘테라.md",
     "Spaces/Home/술/술.md",
     "Spaces/Home/술/위스키.md",
     "Spaces/Home/루멘테라/태욱님 텍스트 추출.md",
