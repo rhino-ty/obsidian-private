@@ -35,5 +35,9 @@
   "anuppuccin-theme-settings@@anp-colorful-frame": true,
   "anuppuccin-theme-settings@@anp-layout-select": "anp-border-layout",
   "anuppuccin-theme-settings@@anp-bg-fix": true,
-  "anuppuccin-theme-settings@@anp-hide-borders": false
+  "anuppuccin-theme-settings@@anp-hide-borders": false,
+  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-full-rainbow-color-toggle",
+  "anuppuccin-theme-settings@@anp-rainbow-file-toggle": true,
+  "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-light": true,
+  "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-dark": true
 }
