@@ -3,15 +3,15 @@
   "theme": "obsidian",
   "baseFontSize": 18,
   "translucency": true,
-  "cssTheme": "",
+  "cssTheme": "AnuPpuccin",
   "interfaceFontFamily": "Apple SD Gothic Neo",
   "textFontFamily": "Apple SD Gothic Neo",
   "monospaceFontFamily": "JetBrains Mono",
   "enabledCssSnippets": [
     "obsidian",
-    "ia-write-highlight-style",
-    "checkbox-stroke",
     "AnuPpuccin extended colors",
-    "Custom Rainbow Colors"
+    "ia-write-highlight-style",
+    "Custom Rainbow Colors",
+    "checkbox-stroke"
   ]
 }
