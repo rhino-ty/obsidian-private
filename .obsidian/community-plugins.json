@@ -8,5 +8,7 @@
   "obsidian-custom-frames",
   "copy-as-html",
   "obsidian-image-toolkit",
-  "dataview"
+  "dataview",
+  "obsidian-kanban",
+  "obsidian-outliner"
 ]
