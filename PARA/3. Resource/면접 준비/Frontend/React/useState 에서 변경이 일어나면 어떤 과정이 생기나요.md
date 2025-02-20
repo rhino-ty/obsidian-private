@@ -25,8 +25,8 @@ useState의 상태 변경 시에는 다음 프로세스가 발생합니다.
 2. **렌더링 큐**
    * 리액트는 상태 변경이 발생한 컴포넌트들을 렌더링 큐에 추가합니다.
    * 동시성 모드 : 렌더링 작업의 우선순위를 동적으로 조정
-	   * startTransition의 동작 방식
-	   - Suspense와의 연계
+	   * `startTransition`의 동작 방식
+	   - `Suspense`와의 연계
 	   - Concurrent Rendering의 작동 방식
    * 이 과정은 비동기적으로 이루어져, 여러 상태 변경을 배치 처리할 수 있습니다.
 3. **재조정(Reconciliation)**
@@ -43,5 +43,5 @@ useState의 상태 변경 시에는 다음 프로세스가 발생합니다.
 6. **Fiber 아키텍처**
    * 리액트의 Fiber 아키텍처는 렌더링 작업을 작은 단위로 나누어 우선순위를 관리합니다.
    * 이를 통해 중요한 업데이트를 먼저 처리하고, 렌더링 과정을 중단하거나 재개할 수 있습니다.
-   - Double Buffering 개념 (current tree vs workInProgress tree)
-   - Fiber 노드의 구조와 포인터들 (`child`, `sibling`, `return`)
+   - Double Buffering으로 current tree와 workInProgress tree를 관리
+   - `child`, `sibling`, `return` 포인터로 fiber 노드들을 연결하는 구조
