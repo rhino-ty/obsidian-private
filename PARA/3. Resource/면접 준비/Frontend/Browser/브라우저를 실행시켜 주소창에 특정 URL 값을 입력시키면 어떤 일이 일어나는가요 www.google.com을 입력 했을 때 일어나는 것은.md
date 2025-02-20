@@ -1,3 +1,6 @@
+---
+sticker: emoji//2b50
+---
 [What happens when you types Google?](https://devjin-blog.com/what-happen-browser-search/) 여기 보기
 
 1. 브라우저는 입력된 주소를 분석하여 해당 도메인의 IP 주소를 알아내기 위해 **DNS(Domain Name System) 서버에 요청**합니다

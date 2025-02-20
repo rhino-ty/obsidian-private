@@ -1,3 +1,6 @@
+---
+sticker: emoji//2b50
+---
 
 1. **파싱과 AST 생성**
 	- HTML 파서가 `<script>` 태그를 만나면 JavaScript 코드를 파싱
