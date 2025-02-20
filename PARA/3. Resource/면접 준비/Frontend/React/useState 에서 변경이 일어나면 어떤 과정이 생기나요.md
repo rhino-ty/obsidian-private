@@ -58,6 +58,4 @@ useState의 상태 변경 시에는 다음 프로세스가 발생합니다.
 
 React는 여러 최적화 도구도 제공합니다. React.memo는 props가 변경되지 않은 컴포넌트의 리렌더링을 방지합니다. useMemo와 useCallback은 각각 계산 비용이 큰 값과 함수의 불필요한 재생성을 방지합니다.
 
-마지막으로 Fiber 아키텍처는 이 모든 과정의 기반이 됩니다. 렌더링 작업을 작은 단위(fiber)로 나누어 우선순위를 관리하며, Double Buffering 기법으로 current tree와 workInProgress tree를 관리합니다. 각 fiber 노드는 child, sibling, return 포인터로 연결되어 있어 효율적인 트리 순회가 가능합니다.
-
-이러한 복잡한 메커니즘들이 함께 작동하여 React가 효율적이고 유연한 UI 업데이트를 가능하게 만듭니다. 특히 Concurrent 모드의 도입으로 더욱 세밀한 렌더링 제어가 가능해졌습니다.
+마지막으로 Fiber 아키텍처는 이 모든 과정의 기반이 됩니다. 렌더링 작업을 작은 단위(fiber)로 나누어 우선순위를 관리하며, Double Buffering 기법으로 current tree와 workInProgress tree를 관리합니다. 각 fiber 노드는 `child`, `sibling`, `return` 포인터로 연결되어 있어 효율적인 트리 순회가 가능합니다.
