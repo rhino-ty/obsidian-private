@@ -105,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PARA/PARA 사용법.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "PARA 사용법 의 백링크"
             }
           },
           {
@@ -123,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PARA/PARA 사용법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "PARA 사용법 의 나가는 링크"
             }
           },
           {
@@ -161,16 +163,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PARA/PARA 사용법.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "PARA 사용법 의 개요"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -190,7 +193,8 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:새 보드 만들기": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "vscode-editor:Create Code File": false
     }
   },
   "active": "1a72fc3ed9395629",
