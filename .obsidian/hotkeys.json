@@ -57,5 +57,13 @@
       ],
       "key": "P"
     }
+  ],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
   ]
 }
