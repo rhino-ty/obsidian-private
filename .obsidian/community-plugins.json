@@ -10,5 +10,6 @@
   "dataview",
   "obsidian-kanban",
   "obsidian-outliner",
-  "obsidian-linter"
+  "obsidian-linter",
+  "templater-obsidian"
 ]
