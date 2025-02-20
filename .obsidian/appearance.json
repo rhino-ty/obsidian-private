@@ -1,11 +1,11 @@
 {
   "accentColor": "",
-  "theme": "obsidian",
+  "theme": "system",
   "baseFontSize": 18,
   "translucency": true,
-  "cssTheme": "AnuPpuccin",
-  "interfaceFontFamily": "Apple SD Gothic Neo",
-  "textFontFamily": "Apple SD Gothic Neo",
+  "cssTheme": "Obsidian Nord",
+  "interfaceFontFamily": "Pretendard Variable,Apple SD Gothic Neo",
+  "textFontFamily": "Pretendard Variable,Apple SD Gothic Neo",
   "monospaceFontFamily": "JetBrains Mono",
   "enabledCssSnippets": [
     "obsidian",
