@@ -1,7 +1,6 @@
 ---
 sticker: emoji//1f481
 ---
-수정 됏냐?
 # Obsidian PARA
 
 [Medium에서 보기](https://b-yarbrough.medium.com/obsidian-and-para-are-the-perfect-pairing-together-you-can-remember-connect-and-create-7a87c8882de5)
