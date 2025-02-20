@@ -81,7 +81,32 @@ const GameResult = () => {
 	- UI 계층에서는 렌더링과 스타일링만 담당
 	- 각 계층이 단일 책임을 가지게 되어 응집도가 높아집니다
 
-```
+```tsx
+// 높은 응집도: 드로잉 상태 관리만 담당
+const useDrawingState = () => {
+  const [currentColor, setCurrentColor] = useState('#000000');
+  const [brushSize, setBrushSize] = useState(4);
+  const [inkRemaining, setInkRemaining] = useState(1000);
+  // ...
+};
+
+// 높은 응집도: Canvas API 조작만 담당
+const useDrawingOperation = () => {
+  const drawStroke = useCallback(() => { /*...*/ }, []);
+  const floodFill = useCallback(() => { /*...*/ }, []);
+  // ...
+};
+
+// 높은 응집도: UI 렌더링과 이벤트 처리만 담당
+const Canvas = () => {
+  const { currentColor, brushSize } = useDrawing();
+  return (
+    <canvas 
+      onMouseDown={handleDrawStart}
+      // ...
+    />
+  );
+};
 ```
 
 ---
