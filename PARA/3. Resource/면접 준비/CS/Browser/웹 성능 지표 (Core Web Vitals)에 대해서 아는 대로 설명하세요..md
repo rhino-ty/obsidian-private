@@ -7,9 +7,9 @@
 - 렌더링 차단 리소스 제거 => CSS, JS는 차단할 수 있음, JS는 `defer`, `async` 사용
 	- `defer` : - HTML 파싱과 병렬로 스크립트를 다운로드하지만, 실행은 HTML 파싱이 완료된 후
 	- `async` : HTML 파싱과 병렬로 스크립트를 다운로드하고, 다운로드 완료 즉시 파싱을 중단하고 스크립트를 실행
-- CSS/JS 최소화 => 주석, 불필요 로직, 
-- 중요 리소스 미리 로드
-- Server-Side Rendering 활용
+- CSS/JS 최소화 => 주석, 불필요 코드 제거
+- 중요 리소스 미리 로드 => `<link rel="preload">`로 중요한 폰트, 이미지, CSS 미리 로드
+- Server-Side Rendering 활용 => 서버에서 미리 렌더링된 HTML 받기
 
 ### LCP (Largest Contentful Paint)
 #### 개념
