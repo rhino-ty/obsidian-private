@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "PARA/PARA 사용법.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254
+    "width": 230.5
   },
   "right": {
     "id": "0a1458ea4a005645",
@@ -164,7 +164,7 @@
               "type": "outline",
               "state": {
                 "file": "PARA/PARA 사용법.md",
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -173,11 +173,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 240.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,14 +197,14 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "f4db8774cbe765ea",
+  "active": "72e27987ad122bb3",
   "lastOpenFiles": [
+    "PARA/1. Projects/옵시디언 설정.md",
+    "PARA/PARA 사용법.md",
     "Assets/Pasted image 20250220194905.png",
     "Assets/Pasted image 20250220194845.png",
     "Assets/Pasted image 20250220194824.png",
     "PARA/1. Projects/술/술.md",
-    "PARA/1. Projects/옵시디언 설정.md",
-    "PARA/PARA 사용법.md",
     "PARA/3. Resource/3. Resource.md",
     "PARA/PARA 사용법법.md",
     "Spaces",
