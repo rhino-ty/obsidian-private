@@ -35,8 +35,8 @@ tags:
   - 모든 레이어를 올바른 순서로 합성
   - `transform`, `opacity` 변경은 이 단계에서만 처리돼 성능상 유리
 ### 성능 최적화 Tips
-- Reflow를 최소화: `layout` 속성 변경 피하기
-	- 
-- 레이어 수 관리: 과도한 레이어는 메모리 사용량 증가
-- `transform`/`opacity` 활용: GPU 가속 활용
-- `will-change` 속성 전략적 사용: 변경이 예상되는 속성 미리 알리기
+- **Reflow를 최소화** : `layout` 속성 변경 피하기
+	- 영향 범위: `width`, `height`, `margin`, `padding`, `border`, `position`, `font-size` 등
+- **레이어 수 관리** : 과도한 레이어는 메모리 사용량 증가
+- **`transform`/`opacity` 활용** : GPU 가속 활용
+- **`will-change` 속성 전략적 사용** : 변경이 예상되는 속성 미리 알리기
