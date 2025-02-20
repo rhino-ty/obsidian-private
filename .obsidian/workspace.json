@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/술/와인.md",
+                "file": "Spaces/Home/술/위스키.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "와인"
+              "title": "위스키"
             }
           }
         ]
@@ -75,17 +75,7 @@
             }
           },
           {
-            "id": "0dcc1906fe790c5a",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
-            }
-          },
-          {
-            "id": "ca25688f1c10cb4c",
+            "id": "6bbf9138b326b543",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -95,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -115,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/술/와인.md",
+                "file": "Spaces/Home/술/위스키.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "와인 의 백링크"
+              "title": "위스키 의 백링크"
             }
           },
           {
@@ -134,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/술/와인.md",
+                "file": "Spaces/Home/술/위스키.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "와인 의 나가는 링크"
+              "title": "위스키 의 나가는 링크"
             }
           },
           {
@@ -173,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/술/와인.md",
+                "file": "Spaces/Home/술/위스키.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "와인 의 개요"
+              "title": "위스키 의 개요"
             }
           }
         ],
@@ -208,10 +198,15 @@
   },
   "active": "1973f3f85791bdfe",
   "lastOpenFiles": [
-    "Spaces/Home/술/우리나라 전통주.md",
+    "Spaces/Home/술/무제.md",
+    "Spaces/Home/술/위스키.md",
+    "Assets/Pasted image 20250220185126.png",
     "Spaces/Home/술/위스키계열.png",
     "Spaces/Home/술/와인.md",
-    "Spaces/Home/술/위스키.md",
+    "Spaces/Home/술/우리나라 전통주.md",
+    "Spaces/Home/술/술.md",
+    "Assets/Pasted image 20250220184814.png",
+    "Assets",
     "Spaces/Home/공부/공부.md",
     "Spaces/Home/공부/무제 파일.md",
     "Spaces/Home/공부/무제 파일.canvas",
@@ -225,7 +220,6 @@
     "Spaces/Home/옵시디언 설정.md",
     "Spaces/Home/루멘테라/경방신약.md",
     "Spaces/Home/루멘테라/데일리 스크럼 표 작성.md",
-    "Spaces/Home/술/술.md",
     "Spaces/Home/루멘테라",
     "무제 파일.md",
     "Untitled.md",
