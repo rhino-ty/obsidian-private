@@ -1,3 +1,6 @@
+---
+sticker: emoji//2b50
+---
 ### FCP (First Contentful Paint)
 #### 개념
 - 페이지가 로드되기 시작한 시점부터 콘텐츠가 화면에 처음 표시되는 시점까지의 시간
