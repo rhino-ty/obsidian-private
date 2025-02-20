@@ -11,5 +11,6 @@
   "obsidian-outliner",
   "obsidian-linter",
   "templater-obsidian",
-  "vscode-editor"
+  "vscode-editor",
+  "make-md"
 ]
