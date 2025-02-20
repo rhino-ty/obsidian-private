@@ -1,6 +1,7 @@
 ---
 sticker: emoji//2b50
-tags: []
+tags:
+  - browser
 ---
 [What happens when you types Google?](https://devjin-blog.com/what-happen-browser-search/) 여기 보기
 
