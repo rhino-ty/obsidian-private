@@ -1,7 +1,7 @@
 {
   "accentColor": "",
   "theme": "system",
-  "baseFontSize": 18,
+  "baseFontSize": 16,
   "translucency": true,
   "cssTheme": "Obsidian Nord",
   "interfaceFontFamily": "Pretendard Variable,Apple SD Gothic Neo",
@@ -9,11 +9,11 @@
   "monospaceFontFamily": "JetBrains Mono",
   "enabledCssSnippets": [
     "obsidian",
-    "AnuPpuccin extended colors",
     "Custom Rainbow Colors",
     "checkbox-stroke",
     "Rainbow Folder Backgrounds",
-    "ia-write-highlight-style"
+    "ia-write-highlight-style",
+    "AnuPpuccin extended colors"
   ],
   "showViewHeader": false
 }
