@@ -14,5 +14,13 @@
       ],
       "key": "Backspace"
     }
+  ],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
   ]
 }

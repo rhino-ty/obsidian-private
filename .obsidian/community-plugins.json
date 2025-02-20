@@ -11,5 +11,6 @@
   "obsidian-kanban",
   "obsidian-outliner",
   "obsidian-linter",
-  "templater-obsidian"
+  "templater-obsidian",
+  "vscode-editor"
 ]
