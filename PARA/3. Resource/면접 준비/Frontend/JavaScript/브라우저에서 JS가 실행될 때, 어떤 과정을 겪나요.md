@@ -10,7 +10,7 @@
 3. **실행 컨텍스트 생성**
 	- 전역 실행 컨텍스트가 생성되고 콜 스택에 푸시
 	- 함수 호출 시마다 새로운 실행 컨텍스트가 생성
-	- 각 컨텍스트는 Variable Environment, Lexical Environment, This Binding을 포함
+	- 각 컨텍스트는 `Variable Environment`, `Lexical Environment`, `This Binding`을 포함
 4. **코드 실행** 
 	- 생성된 실행 컨텍스트의 렉시컬 환경에서 변수/함수 선언 처리 (호이스팅)
 	- 코드가 한 줄씩 실행됨
