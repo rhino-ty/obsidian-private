@@ -9,5 +9,6 @@
   "obsidian-image-toolkit",
   "dataview",
   "obsidian-kanban",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "obsidian-linter"
 ]
