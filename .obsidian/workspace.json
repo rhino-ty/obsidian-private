@@ -11,14 +11,12 @@
             "id": "1a72fc3ed9395629",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "PARA/PARA 사용법.md",
-                "mode": "source",
-                "source": false
+                "path": "PARA/1. Projects/술"
               },
               "icon": "lucide-file",
-              "title": "PARA 사용법"
+              "title": "술"
             }
           }
         ]
@@ -75,7 +73,7 @@
             }
           },
           {
-            "id": "b802daf12af280d6",
+            "id": "72e27987ad122bb3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -195,6 +193,8 @@
   },
   "active": "1a72fc3ed9395629",
   "lastOpenFiles": [
+    "PARA/1. Projects/술/술.md",
+    "PARA/1. Projects/옵시디언 설정.md",
     "PARA/PARA 사용법.md",
     "PARA/4. Resource/4. Resource.md",
     "PARA/PARA 사용법법.md",
@@ -217,7 +217,6 @@
     "Spaces/Home/술/위스키계열.png",
     "PARA/1. Projects/술/와인.md",
     "PARA/1. Projects/술/우리나라 전통주.md",
-    "PARA/1. Projects/술/술.md",
     "Assets/Pasted image 20250220184814.png",
     "Assets",
     "Spaces/Home/공부/공부.md",
@@ -230,7 +229,6 @@
     "Pasted image 20231124122250.png.md",
     "Obsidian Vault.md",
     "Spaces/Home/루멘테라/루멘테라.md",
-    "PARA/1. Projects/옵시디언 설정.md",
     "Spaces/Home/루멘테라",
     "Spaces/Home/술/Pasted image 20231124122250.png",
     "Spaces/스페이스",
