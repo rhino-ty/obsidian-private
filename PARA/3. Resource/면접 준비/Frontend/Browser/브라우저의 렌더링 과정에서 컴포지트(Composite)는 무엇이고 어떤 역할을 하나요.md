@@ -36,9 +36,11 @@ tags:
   - `transform`, `opacity` 변경은 이 단계에서만 처리돼 성능상 유리
 ### 성능 최적화 Tips
 - **Reflow를 최소화** : `layout` 속성 변경 피하기
-	- 영향 범위: `width`, `height`, `margin`, `padding`, `border`, `position`, `font-size` 등
+	- 영향 범위 : `width`, `height`, `margin`, `padding`, `border`, `position`, `font-size` 등
 	- 레이아웃 속성 변경 시 전체 문서의 레이아웃을 다시 계산해서 그럼
 - **레이어 수 관리** : 과도한 레이어는 메모리 사용량 증가
-	- - **영향 범위**: will-change, transform: translateZ(), position: fixed 등
+	- 영향 범위 : `will-change`, `transform: translateZ()`, `position: fixed` 등
+	- 각 레이어는 별도의 메모리 공간 필요
 - **`transform`/`opacity` 활용** : GPU 가속 활용
+	- GPU 처리 가능해 Reflow나 Repaint 발생하지 않음
 - **`will-change` 속성 전략적 사용** : 변경이 예상되는 속성 미리 알리기
