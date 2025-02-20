@@ -11,12 +11,14 @@
             "id": "1a72fc3ed9395629",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "PARA/1. Projects/술"
+                "file": "PARA/PARA 사용법.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "술"
+              "title": "PARA 사용법"
             }
           }
         ]
