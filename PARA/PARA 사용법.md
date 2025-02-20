@@ -6,6 +6,8 @@ sticker: emoji//1f481
 
 [Medium에서 보기](https://b-yarbrough.medium.com/obsidian-and-para-are-the-perfect-pairing-together-you-can-remember-connect-and-create-7a87c8882de5)
 
+안녕하셍
+
 Obsidian과 PARA는 완벽한 조합입니다. 이 둘을 함께 사용하면 **기억**(Recall), **연결**(Connect), **창조**(Create)가 가능해집니다. 이는 여러분의 지식을 쉽게 접근하고, 즉시 활용할 수 있도록 설계된 보편적인 조직 시스템입니다.
 
 Obsidian과 PARA를 활용하면 모든 정보를 일반 텍스트 파일로 관리할 수 있으며, 전체 계층 구조는 네 가지 범주(Projects, Areas, Resources, Archives)로 구성되고, 최대 네 단계(Obsidian > Vault > Folders > Notes)로 조직됩니다.
