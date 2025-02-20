@@ -21,7 +21,7 @@
 - 서버 응답 시간 개선 => CDN 사용해 가까운 서버에서 콘텐츠를 제공하여 지연 시간 감소
 - JS/CSS 렌더링 차단 최소화 => `defer`
 - 리소스 로드 시간 최적화 => 이미지 크기, WebP 등 최적화 
-- 클라이언트 사이드 렌더링 최적화 => Code Splitting로 필요한 
+- 클라이언트 사이드 렌더링 최적화 => Code Splitting(`lazy`)로 필요한 JS만 로드하도록 설정
 
 ### CLS (Cumulative Layout Shift)
 #### 개념
