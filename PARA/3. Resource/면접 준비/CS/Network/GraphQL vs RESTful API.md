@@ -9,7 +9,7 @@ aliases:
 ---
 "GraphQL이 뭔가요? RESTful API 와 비교해 장단점은 무엇인가요?"
 
-옛날에 GitHub
+옛날에 내 GitHub 프로필 불러온다고, 그래프큐엘로 커밋
 
 ### GraphQL 정의
 - Facebook에서 개발한 API 쿼리 언어 및 런타임
