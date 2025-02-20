@@ -20,7 +20,7 @@
 	- 실행 중에도 계속해서 최적화/탈최적화가 발생
 
 이 모든 과정은 단일 스레드인 메인 스레드에서 일어나며, Web API와 이벤트 루프를 통해 비동기 작업을 처리합니다.
-### 실행 과정
+### 비동기 실행 과정
 
 1. **동기 코드 실행**
    - 코드가 콜스택에 들어가서 순차적으로 실행
@@ -38,13 +38,13 @@
    ```
 
 3. **태스크 큐 구분**
-   - 마이크로태스크 큐: Promise, queueMicrotask, process.nextTick(Node.js)
-   - 매크로태스크 큐: setTimeout, setInterval, setImmediate, requestAnimationFrame
+   - 마이크로태스크 큐: `Promise`, `queueMicrotask`, `process.nextTick`(Node.js)
+   - 매크로태스크 큐: `setTimeout`, `setInterval`, `setImmediate`, `requestAnimationFrame`
 
 4. **이벤트 루프 처리 순서**
    1. 콜스택이 비었는지 확인
-   2. 비었다면 마이크로태스크 큐 모두 실행
-   3. 매크로태스크 큐에서 하나 실행
+   2. 비었다면 마이크로태스크 큐 실행
+   3. 매크로태스크 큐에서 실행
    4. 다시 1번으로 반복
 
-이렇게 비동기 작업들이 적절한 큐에 배치되어 이벤트 루프에 의해 처리되는 것입니다.
+이렇게 비동기 작업들이 적절한 큐에 배치돼 이벤트 루프에 의해 처리되는 것입니다.
