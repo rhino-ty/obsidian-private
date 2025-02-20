@@ -1,5 +1,6 @@
 ---
 aliases: []
+sticker: emoji//1fae5
 ---
 - **응높결낮**
 	- 응집도는 모듈 내의 요소들이 얼마나 밀접하게 관련
@@ -9,15 +10,67 @@ aliases: []
 "Headless 패턴은 UI 컴포넌트의 로직과 스타일을 분리하는 설계 방식입니다. 프로젝트에서도 사용한 적이 있는데, 토스트나 모달 같은 컴포넌트를 만들 때 사용했었습니다.
 
 스타일을 포함해 UI 렌더링과 실행되는 비즈니스 로직 등을 분리했었습니다.
+```tsx
+// Modal 로직
+const useModal = (autoCloseDelay?: number) => {
+  const [isModalOpened, setModalOpened] = useState(false);
 
-이렇게 분리함으로써 얻은 장점이 있었는데요. 먼저 동일한 드로잉 로직을 펜, 형광펜 등 다양한 도구에 재사용할 수 있었고, 새로운 도구를 추가할 때도 기존 로직을 변경하지 않고 UI만 구현하면 되어 확장이 쉬웠습니다. 또한 로직을 분리해서 테스트하기도 수월했죠.
+  const openModal = () => {
+    setModalOpened(true);
+    if (autoCloseDelay) {
+      return timer({ 
+        handleComplete: closeModal, 
+        delay: autoCloseDelay 
+      });
+    }
+  };
 
-이 경험을 통해 Headless 패턴이 복잡한 인터랙션을 다루는 컴포넌트를 설계할 때 특히 유용하다는 것을 배웠습니다."
+  const handleKeyDown = (e: KeyboardEvent) => {
+    if (e.key === 'Escape') closeModal();
+  };
+
+  return { openModal, closeModal, handleKeyDown, isModalOpened };
+};
+
+// Modal UI
+const Modal = ({ title, isModalOpened, handleKeyDown, children }) => (
+  <div
+    className={cn(
+      'fixed left-0 top-0 flex h-full w-full items-center justify-center',
+      isModalOpened ? 'pointer-events-auto' : 'pointer-events-none'
+    )}
+    onKeyDown={handleKeyDown}
+    tabIndex={0}
+  >
+    <div className="relative m-3 bg-violet-100">
+      <h2>{title}</h2>
+      {children}
+    </div>
+  </div>
+);
+
+// 사용 예시
+const GameResult = () => {
+  const { isModalOpened, openModal } = useModal(5000); // 5초 후 자동 닫힘
+
+  return (
+    <Modal 
+      title="게임 결과" 
+      isModalOpened={isModalOpened}
+    >
+      <div>결과 내용...</div>
+    </Modal>
+  );
+};
+```
 
 1. **중앙 집중화된 상태 관리**: Toast나 Modal의 상태를 전역적으로 관리하면서도, UI는 유연하게 커스터마이징 가능했습니다.
 2. **일관된 동작 보장**: 키보드 접근성이나 자동 닫힘 같은 공통 기능을 로직 레벨에서 보장할 수 있었습니다.
 3. **쉬운 기능 확장**: 새로운 스타일의 Toast나 Modal이 필요할 때 로직을 수정하지 않고 UI만 추가하면 됐습니다.
-4. **코드 재사용**: 동일한 useModal 훅으로 게임 결과, 역할 공개, 도움말 등 다양한 모달을 구현할 수 있었습니다."
+4. **코드 재사용**: 동일한 useModal 훅으로 게임 결과, 역할 공개, 도움말 등 다양한 모달을 구현할 수 있었습니다.
+
+이 경험을 통해 Headless 패턴이 복잡한 인터랙션을 다루는 컴포넌트를 설계할 때 특히 유용하다는 것을 배웠습니다.
+"
 
 ---
 
