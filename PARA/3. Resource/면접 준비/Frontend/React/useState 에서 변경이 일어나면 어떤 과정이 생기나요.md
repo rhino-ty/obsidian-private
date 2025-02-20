@@ -28,6 +28,8 @@ useState의 상태 변경 시에는 다음 프로세스가 발생합니다.
 3. **재조정(Reconciliation)**
    * 렌더링 단계에서 리액트는 "`더티`" 컴포넌트들을 새로 렌더링합니다.
    * 이 때 가상 DOM 트리를 새로 생성하고, 이전 트리와 비교합니다(Diffing).
+   * Render Phase와 Commit Phase의 구분
+   - 작업 우선순위에 따른 렌더링 인터럽트
 4. **부분 렌더링**
    * Diffing 과정에서 변경된 부분만 식별됩니다.
    * 리액트는 이 정보를 사용해 실제 DOM에서 필요한 부분만 업데이트합니다.
@@ -37,3 +39,5 @@ useState의 상태 변경 시에는 다음 프로세스가 발생합니다.
 6. **Fiber 아키텍처**
    * 리액트의 Fiber 아키텍처는 렌더링 작업을 작은 단위로 나누어 우선순위를 관리합니다.
    * 이를 통해 중요한 업데이트를 먼저 처리하고, 렌더링 과정을 중단하거나 재개할 수 있습니다.
+   - Double Buffering 개념 (current tree vs workInProgress tree)
+   - Fiber 노드의 구조와 포인터들 (`child`, `sibling`, `return`)
