@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "bc9cfb75828ecad8",
+    "id": "e274919c39d0e65a",
     "type": "split",
     "children": [
       {
-        "id": "159dfcdab885c7a8",
+        "id": "bfc3b0fd2158db9d",
         "type": "tabs",
         "children": [
           {
-            "id": "1a72fc3ed9395629",
+            "id": "1db4a3d517565e15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA/PARA 사용법.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "PARA 사용법"
+              "title": "새 탭"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "cab490131a6ad70c",
+    "id": "905f9b0ea4215c76",
     "type": "split",
     "children": [
       {
-        "id": "1ec215c9a17c0537",
+        "id": "3890abe96483ae9a",
         "type": "tabs",
         "children": [
           {
-            "id": "888ff281ee5f627d",
+            "id": "062e3df095bf48c5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,17 +44,7 @@
             }
           },
           {
-            "id": "6de407e2eea4456c",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "북마크"
-            }
-          },
-          {
-            "id": "37266da72117d502",
+            "id": "233ead3d88a195a4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,38 +61,36 @@
             }
           },
           {
-            "id": "72e27987ad122bb3",
+            "id": "3b034030f2e33475",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
+              "type": "bookmarks",
               "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "icon": "lucide-bookmark",
+              "title": "북마크"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 300
   },
   "right": {
-    "id": "0a1458ea4a005645",
+    "id": "ac3609dc607469ff",
     "type": "split",
     "children": [
       {
-        "id": "e47d2b5cc79b0262",
+        "id": "a318e98d74b62c8b",
         "type": "tabs",
         "children": [
           {
-            "id": "01ae01b81d2ee1a1",
+            "id": "e18dd6fd1321b47e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARA/PARA 사용법.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -115,35 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "PARA 사용법 의 백링크"
+              "title": "백링크"
             }
           },
           {
-            "id": "d0634bcf708dec9a",
+            "id": "c6852ee1233dc769",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/PARA 사용법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "PARA 사용법 의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
-            "id": "f4db8774cbe765ea",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "5d2b940a6d791d8a",
+            "id": "9e96b92a6fa8f3df",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -158,90 +131,44 @@
             }
           },
           {
-            "id": "08dcf8459de0e642",
+            "id": "89ae89a469bd78c1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/PARA 사용법.md",
-                "followCursor": true,
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "PARA 사용법 의 개요"
+              "title": "개요"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:빠른 전환기 열기": false,
-      "markdown-importer:마크다운 형식 불러오기 열기": false,
-      "random-note:무작위 노트 열기": false,
+      "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "templates:템플릿 삽입": false,
-      "workspaces:작업 공간 레이아웃 관리": false,
-      "graph:그래프 뷰 열기": false,
       "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:마크다운 형식 불러오기 열기": false,
+      "random-note:무작위 노트 열기": false,
+      "workspaces:작업 공간 레이아웃 관리": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:새 보드 만들기": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:새 보드 만들기": false,
       "templater-obsidian:Templater": false,
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "1a72fc3ed9395629",
-  "lastOpenFiles": [
-    "Excalidraw/Excalidraw.md",
-    "Assets/Assets.md",
-    "Vault.md",
-    "PARA/1. Projects/당근마켓 면접 준비/무제.md",
-    "PARA/PARA.md",
-    "PARA/1. Projects/당근마켓 면접 준비/당근마켓 면접 준비.md",
-    "PARA/PARA 사용법.md",
-    "PARA/1. Projects/당근마켓 면접 준비",
-    "PARA/3. Resource/면접 준비/면접 준비.md",
-    "PARA/3. Resource/면접 준비",
-    "PARA/2. Area/2. Area.md",
-    "PARA/2. Area/무제.md",
-    "PARA/2. Area/면접 준비.md",
-    "PARA/3. Resource/4 1.md",
-    "PARA/3. Resource/4.md",
-    "PARA/3. Resource/3. Resource.md",
-    "PARA/1. Projects/1. Projects.md",
-    "PARA/1. Projects/옵시디언 설정.md",
-    "Assets/Pasted image 20250220194905.png",
-    "Assets/Pasted image 20250220194845.png",
-    "Assets/Pasted image 20250220194824.png",
-    "PARA/3. Resource/술/술.md",
-    "PARA/PARA 사용법법.md",
-    "Spaces",
-    "PARA/2. Area/Area.md",
-    "PARA/2. Area",
-    "Spaces/무제.md",
-    "PARA/3. Resource",
-    "PARA/4. Achives/4. Achives.md",
-    "PARA/4. Achives",
-    "PARA/3. Resource/술/위스키.md",
-    "Spaces/Home/술/무제.md",
-    "Templates/무제.md",
-    "Templates/test-template.md",
-    "Templates/Templates.md",
-    "Templates",
-    "Assets/Pasted image 20250220185126.png",
-    "Spaces/Home/술/위스키계열.png",
-    "Assets/Pasted image 20250220184814.png",
-    "Assets",
-    "Spaces/Home/공부/무제 파일.canvas",
-    "Spaces/Home/루멘테라",
-    "Spaces/Home/술/Pasted image 20231124122250.png",
-    "Spaces/스페이스"
-  ]
+  "active": "1db4a3d517565e15",
+  "lastOpenFiles": []
 }

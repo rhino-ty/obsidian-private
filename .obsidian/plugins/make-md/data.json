@@ -50,11 +50,11 @@
     "//Spaces/Spaces/Home/Spaces/Home/술",
     "//Spaces/Spaces/Home",
     "//Spaces/Spaces/Achives",
-    "//PARA",
     "//PARA/PARA/1. Projects",
     "//PARA/PARA/3. Resource",
     "/",
-    "//Spaces"
+    "//Spaces",
+    "//PARA"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Spaces",
