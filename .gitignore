@@ -4,9 +4,5 @@
 .obsidian/workspace.json
 .obsidian/app.json
 
-# Make.md 관련 파일 및 폴더 제외
-.makemd/
-.obsidian/plugins/make-md/
-
 .trash/
 .DS_Store
