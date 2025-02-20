@@ -2,7 +2,6 @@
   "obsidian-git",
   "obsidian-emoji-toolbar",
   "obsidian-excalidraw-plugin",
-  "make-md",
   "table-editor-obsidian",
   "obsidian-custom-frames",
   "copy-as-html",
@@ -12,5 +11,6 @@
   "obsidian-outliner",
   "obsidian-linter",
   "templater-obsidian",
-  "vscode-editor"
+  "vscode-editor",
+  "make-md"
 ]
