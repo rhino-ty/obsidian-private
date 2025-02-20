@@ -39,7 +39,6 @@
     "Spaces/Home/Spaces/Home/술2",
     "//Spaces/Spaces/스페이스",
     "//Spaces/Spaces/스페이스",
-    "//Spaces/Spaces/Home",
     "Spaces/Home/Spaces/Home/JS",
     "Spaces/Home/Spaces/Home/JS",
     "Spaces/Home/Spaces/Home/JS",
@@ -51,7 +50,8 @@
     "/",
     "//Excalidraw",
     "//Spaces/Spaces/Home/Spaces/Home/공부",
-    "//Templates"
+    "//Spaces/Spaces/Home/Spaces/Home/술",
+    "//Spaces/Spaces/Home"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Spaces",
