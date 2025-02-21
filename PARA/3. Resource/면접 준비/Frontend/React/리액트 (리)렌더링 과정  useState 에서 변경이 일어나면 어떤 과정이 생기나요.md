@@ -64,3 +64,5 @@ tags:
 React는 여러 최적화 도구도 제공합니다. React.memo는 props가 변경되지 않은 컴포넌트의 리렌더링을 방지합니다. useMemo와 useCallback은 각각 계산 비용이 큰 값과 함수의 불필요한 재생성을 방지합니다.
 
 마지막으로 Fiber 아키텍처는 이 모든 과정의 기반이 됩니다. 렌더링 작업을 작은 단위(fiber)로 나누어 우선순위를 관리하며, Double Buffering 기법으로 current tree와 workInProgress tree를 관리합니다. 각 fiber 노드는 `child`, `sibling`, `return` 포인터로 연결되어 있어 효율적인 트리 순회가 가능합니다.
+current 트리는 현재 화면에 보이는 UI를 나타내는 Fiber 트리다.
+workInProgress 트리는 업데이트를 준비하는 작업용 트리다.
