@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <!-- 스타일 정의 -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#666" />
+    </marker>
+    <style>
+      .table-header {
+        fill: #4472C4;
+        font-weight: bold;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        text-anchor: middle;
+        fill: white;
+      }
+      .table-body {
+        fill: #D9E1F2;
+      }
+      .table-row {
+        font-family: Arial, sans-serif;
+        font-size: 12px;
+      }
+      .primary-key {
+        font-weight: bold;
+        fill: #203864;
+      }
+      .foreign-key {
+        fill: #203864;
+        font-style: italic;
+      }
+      .relation-line {
+        stroke: #666;
+        stroke-width: 1.5;
+        fill: none;
+        marker-end: url(#arrow);
+      }
+      .table-title {
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        font-weight: bold;
+        text-anchor: middle;
+        fill: #203864;
+      }
+    </style>
+  </defs>
+
+  <!-- ShopM 테이블 -->
+  <g transform="translate(50, 100)">
+    <text x="90" y="-15" class="table-title">shopM (매장 정보)</text>
+    <rect x="0" y="0" width="180" height="30" rx="5" ry="5" fill="#4472C4" />
+    <text x="90" y="20" class="table-header">매장 테이블</text>
+    
+    <rect x="0" y="30" width="180" height="120" rx="0" ry="0" class="table-body" />
+    
+    <text x="10" y="50" class="table-row primary-key">PK: shopCD (매장코드)</text>
+    <text x="10" y="70" class="table-row">shopName (매장명)</text>
+    <text x="10" y="90" class="table-row">shopTel (매장전화번호)</text>
+    <text x="10" y="110" class="table-row">addr (주소)</text>
+    <text x="10" y="130" class="table-row">centerCD (센터코드)</text>
+  </g>
+
+  <!-- AsMst 테이블 -->
+  <g transform="translate(310, 50)">
+    <text x="90" y="-15" class="table-title">asMst (A/S 마스터)</text>
+    <rect x="0" y="0" width="180" height="30" rx="5" ry="5" fill="#4472C4" />
+    <text x="90" y="20" class="table-header">A/S 접수 테이블</text>
+    
+    <rect x="0" y="30" width="180" height="320" rx="0" ry="0" class="table-body" />
+    
+    <text x="10" y="50" class="table-row primary-key">PK: asNo (접수번호)</text>
+    <text x="10" y="70" class="table-row">asDate (접수일시)</text>
+    <text x="10" y="90" class="table-row foreign-key">FK: shopCD (매장코드)</text>
+    <text x="10" y="110" class="table-row">shopName (매장명)</text>
+    <text x="10" y="130" class="table-row">asToCall (접수경로)</text>
+    <text x="10" y="150" class="table-row">asLine (접수라인)</text>
+    <text x="10" y="170" class="table-row foreign-key">FK: ctUserID (콜센터담당자)</text>
+    <text x="10" y="190" class="table-row">compCD1 (담당회사코드)</text>
+    <text x="10" y="210" class="table-row">compName1 (담당회사명)</text>
+    <text x="10" y="230" class="table-row foreign-key">FK: mtUserID (유지보수담당자)</text>
+    <text x="10" y="250" class="table-row">asType1 (대분류)</text>
+    <text x="10" y="270" class="table-row">asType2 (집기시설)</text>
+    <text x="10" y="290" class="table-row">asType3 (증상)</text>
+    <text x="10" y="310" class="table-row">claimList (접수내역)</text>
+    <text x="10" y="330" class="table-row">procList (처리내역)</text>
+    <text x="10" y="350" class="table-row">asStat (상태코드)</text>
+  </g>
+
+  <!-- exms_user 테이블 -->
+  <g transform="translate(570, 100)">
+    <text x="90" y="-15" class="table-title">exms_user (사용자)</text>
+    <rect x="0" y="0" width="180" height="30" rx="5" ry="5" fill="#4472C4" />
+    <text x="90" y="20" class="table-header">사용자 정보 테이블</text>
+    
+    <rect x="0" y="30" width="180" height="140" rx="0" ry="0" class="table-body" />
+    
+    <text x="10" y="50" class="table-row primary-key">PK: ID (사용자ID)</text>
+    <text x="10" y="70" class="table-row">name (이름)</text>
+    <text x="10" y="90" class="table-row">class (권한)</text>
+    <text x="10" y="110" class="table-row">compCD (소속회사코드)</text>
+    <text x="10" y="130" class="table-row">status (상태)</text>
+    <text x="10" y="150" class="table-row">centerCD (센터코드)</text>
+  </g>
+
+  <!-- exms_commonCode 테이블 -->
+  <g transform="translate(310, 400)">
+    <text x="90" y="-15" class="table-title">exms_commonCode (코드)</text>
+    <rect x="0" y="0" width="180" height="30" rx="5" ry="5" fill="#4472C4" />
+    <text x="90" y="20" class="table-header">공통 코드 테이블</text>
+    
+    <rect x="0" y="30" width="180" height="100" rx="0" ry="0" class="table-body" />
+    
+    <text x="10" y="50" class="table-row">codeType (코드유형)</text>
+    <text x="10" y="70" class="table-row">codeValue (코드값)</text>
+    <text x="10" y="90" class="table-row">codeName (코드명)</text>
+    <text x="10" y="110" class="table-row">codeDesc (설명)</text>
+  </g>
+
+  <!-- 관계선 -->
+  <!-- shopM to asMst -->
+  <path d="M230,120 H290 V100" class="relation-line" />
+  
+  <!-- exms_user to asMst (mtUserID) -->
+  <path d="M570,120 H510 V230" class="relation-line" />
+  
+  <!-- exms_commonCode to asMst -->
+  <path d="M400,400 V370" class="relation-line" />
+</svg>
