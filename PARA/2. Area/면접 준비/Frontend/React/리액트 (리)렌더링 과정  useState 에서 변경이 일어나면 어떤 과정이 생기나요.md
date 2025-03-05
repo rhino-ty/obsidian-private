@@ -3,6 +3,7 @@ sticker: emoji//2b50
 tags:
   - react
   - useState
+  - rerendering
 ---
 리액트 컴포넌트 라이프사이클은 마운트, 업데이트, 언마운트로 나뉨.
 ### 핵심 답변
