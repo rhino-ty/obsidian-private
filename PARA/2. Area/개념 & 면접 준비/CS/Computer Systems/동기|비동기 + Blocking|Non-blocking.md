@@ -2,7 +2,7 @@
 sticker: emoji//2b50
 tags:
 ---
-[시각화 자료](https://claude.site/artifacts/13453064-4a8c-467c-8e87-5119c08f28e2)
+[시각화 자료](https://claude.site/artifacts/13453064-4a8c-467c-8e87-5119c08f28e2?fullscreen=true)
 
 개발을 하다 보면 '동기', '비동기', 'Blocking', 'Non-blocking'이라는 용어를 자주 마주하게 됩니다. 이 개념들은 단순히 기술 면접에서 물어보는 이론적인 질문거리가 아니라, 실제로 우리가 만드는 애플리케이션의 성능과 사용자 경험에 직접적인 영향을 미치는 핵심 요소입니다.
 
