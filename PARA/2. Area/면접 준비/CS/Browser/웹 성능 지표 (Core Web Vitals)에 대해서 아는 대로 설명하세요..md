@@ -1,5 +1,7 @@
 ---
 sticker: emoji//2b50
+tags:
+  - browser
 ---
 ### FCP (First Contentful Paint)
 #### 개념
